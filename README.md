@@ -10,8 +10,10 @@ Objective :  is to frame a model that can give us a  regressed prediction of the
 
 
 Dataset : 
+          
           Rating :                                                                                                                   Studios:
-       Average user rating given by the viewers for the anime releases                              Studios responsible for the creation of different Anime
+      
+      Average user rating given by the viewers for the anime releases                              Studios responsible for the creation of different Anime
    
           Title:                                                                                                                     Tags:
       Name of the Anime releases                                                                           Tags, genres etc. of different Anime        
@@ -33,7 +35,7 @@ Dataset :
     The season of release of the Anime(winter/Spring/Fall/Summer)                                  The number of users who dropped it before completion.
 
       Description:                                                                                                                      Votes:
-  Synopsis of plot of the Anime                                                             The number of votes that contribute to the rating received by different Anime
+      Synopsis of plot of the Anime                                                             The number of votes that contribute to the rating received by different Anime
   
   
   
@@ -41,12 +43,12 @@ Dataset :
   About Data pre- Processing  and Model Building :  
   
   Used Linear Regression  -
-              - Treatment of Missing Values 
-              - outlier Treatment
-              - Univariate/ Bi- Variate Analysis by different methods
-                      - Histogram, scatter plot, Box Plot
-                      - correlation test -> Anova test 
-                      
+         
+      - Treatment of Missing Values 
+      - outlier Treatment
+      - Univariate/ Bi- Variate Analysis by different methods
+      - Histogram, scatter plot, Box Plot
+      - correlation test -> Anova test                 
       - Log Thransformation 
       - Multicollinearity test
       - Model Building 
